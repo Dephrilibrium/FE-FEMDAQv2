@@ -1,0 +1,6 @@
+[submodule "FEMDAQv2"]
+	path = FEMDAQv2
+	url = https://github.com/Dephrilibrium/FEMDAQv2
+[submodule "FEMDAQ-DeviceDrivers"]
+	path = FEMDAQ-DeviceDrivers
+	url = https://github.com/Dephrilibrium/FEMDAQ-DeviceDrivers

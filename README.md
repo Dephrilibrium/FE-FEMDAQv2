@@ -1,2 +1,2 @@
 # FE-FEMDAQv2
-Container-Repository for FEMDAQv2
+Group of the FEMDAQ repositories
